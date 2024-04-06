@@ -1,4 +1,4 @@
-![Gualdo Patria DB](/www/logo.svg)
+<img src="/www/logo.svg" alt="logo" style="width: 300px">
 
 ## Run on RStudio
 1. Double click on .Rproj file
